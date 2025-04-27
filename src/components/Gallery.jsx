@@ -12,3 +12,4 @@ function Gallery({ tours, removeTour }) {
 }
 
 export default Gallery;
+// This component is responsible for displaying a list of tour cards.
