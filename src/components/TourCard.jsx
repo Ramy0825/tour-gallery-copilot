@@ -17,3 +17,4 @@ function TourCard({ tour, removeTour }) {
 }
 
 export default TourCard;
+// This component is responsible for displaying individual tour details.
