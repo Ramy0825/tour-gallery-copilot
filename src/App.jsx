@@ -50,4 +50,4 @@ function App() {
   return <Gallery tours={tours} removeTour={removeTour} />;
 }
 
-export default App;
+export default App; //
