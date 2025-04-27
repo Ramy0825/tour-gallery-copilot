@@ -50,4 +50,4 @@ function App() {
   return <Gallery tours={tours} removeTour={removeTour} />;
 }
 
-export default App; //
+export default App; // // This component is responsible for managing the state of the application, including fetching data and handling errors.
